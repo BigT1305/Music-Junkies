@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/And2/And2.srcs/sources_1/imports/__demo source files__/And2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity And2
+INFO: [VRFC 10-163] Analyzing VHDL file "Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/And2/And2.srcs/sim_1/imports/__demo source files__/And2_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity and2_tb

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Mon Jan 30 21:22:27 2017
+# Process ID: 6172
+# Current directory: Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/And2/And2.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/And2/And2.sim/sim_1/behav/xsim.dir/and2_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/And2/And2.sim/sim_1/behav/webtalk.log
+# Journal file: Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/And2/And2.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source Y:/Google -notrace
+couldn't read file "Y:/Google": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Mon Jan 30 21:22:27 2017...

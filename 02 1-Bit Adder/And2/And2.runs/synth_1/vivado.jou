@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Mon Jan 30 21:24:53 2017
+# Process ID: 7448
+# Current directory: Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/And2/And2.runs/synth_1
+# Command line: vivado.exe -log And2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source And2.tcl
+# Log file: Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/And2/And2.runs/synth_1/And2.vds
+# Journal file: Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/And2/And2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source And2.tcl -notrace

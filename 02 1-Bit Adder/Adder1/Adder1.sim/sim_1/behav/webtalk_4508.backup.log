@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Tue Jan 31 13:45:55 2017
+# Process ID: 4508
+# Current directory: Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/Adder1/Adder1.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/Adder1/Adder1.sim/sim_1/behav/xsim.dir/Adder1_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/Adder1/Adder1.sim/sim_1/behav/webtalk.log
+# Journal file: Y:/Google Drive/SLU/_CMPS 375/_units/02_ vivado 1bit adder/Adder1/Adder1.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source Y:/Google -notrace
+invalid command name "Common"
+    while executing
+"Common 17-165"
+    invoked from within
+"ERROR: [Common 17-165] Too many positional options when parsing 'adder/Adder1/Adder1.hw/webtalk/labtool_webtalk.log', please type 'webtalk -help' for ..."
+    (file "Y:/Google" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Tue Jan 31 13:45:55 2017...

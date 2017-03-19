@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega"
+  },
+  {
+    "Sourcefile": "/Users/Wunstel/Desktop/sketch/PoteniometerMidi.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Tue Feb 07 23:06:01 2017
+# Process ID: 8056
+# Current directory: Y:/Google Drive/SLU/_CMPS 375/_units/03_ vivado 4bit adder/DispAdder4/DispAdder4.runs/impl_1
+# Command line: vivado.exe -log DispAdder4.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source DispAdder4.tcl -notrace
+# Log file: Y:/Google Drive/SLU/_CMPS 375/_units/03_ vivado 4bit adder/DispAdder4/DispAdder4.runs/impl_1/DispAdder4.vdi
+# Journal file: Y:/Google Drive/SLU/_CMPS 375/_units/03_ vivado 4bit adder/DispAdder4/DispAdder4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source DispAdder4.tcl -notrace
