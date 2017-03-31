@@ -1,6 +1,11 @@
 This is a good one here. Like I said, Chapter 1 pretty much covers everything we need to know
 http://vhdl-manual.narod.ru/books/programming_by_example.pdf
 
+Another good short tutorial for VHDL description is:
+https://www.tutorialspoint.com/vlsi_design/vlsi_design_vhdl_introduction.htm
+I did put the whole PDF file on here but I am just going to delete that, since only about the last fourth of it focuses on VHDL.  
+It also has some examples in it for adders, etc.  Just some food for thought....
+
 Adders Examaples:
 http://allaboutfpga.com/4-bit-ripple-carry-adder-vhdl-code/
 http://kdientu.duytan.edu.vn/media/50147/design-an-adder-using-vhdl.pdf
