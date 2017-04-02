@@ -1,0 +1,38 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY Alu4 IS
+	GENERIC(CONSTANT N: INTEGER := 4;							-- 4 bits ALU
+			CONSTANT Z: STD_LOGIC_VECTOR(3 DOWNTO 1) := "000"	-- 3 Zeros
+	);
+
+	PORT(
+		a, b:		IN STD_LOGIC_VECTOR(N-1 DOWNTO 0);
+		control:	IN STD_LOGIC_VECTOR(1 DOWNTO 0);
+		overflow:	OUT STD_LOGIC;
+		zero:		OUT STD_LOGIC;
+		carryOut:	OUT STD_LOGIC;
+		result:		OUT STD_LOGIC_VECTOR(N-1 DOWNTO 0)
+	);
+END Alu4;
+
+ARCHITECTURE behavioral OF Alu4 IS
+
+COMPONENT Alu1
+	PORT(
+		a, b: IN STD_LOGIC;
+		carryIn: IN STD_LOGIC;
+		control: IN STD_LOGIC_VECTOR(1 DOWNTO 0);
+		carryOut: OUT STD_LOGIC;
+		result: OUT STD_LOGIC
+	);
+END COMPONENT;
+
+SIGNAL carry_sig: STD_LOGIC_VECTOR(N DOWNTO 0); -- carry_sig(N) = MSB carryOut
+SIGNAL result_sig: STD_LOGIC_VECTOR(N-1 DOWNTO 0);
+
+BEGIN
+
+-- Write Your Code Here
+
+END behavioral;
