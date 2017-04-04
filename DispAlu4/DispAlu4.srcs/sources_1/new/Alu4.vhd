@@ -38,9 +38,9 @@ BEGIN
     '0'     WHEN    Others;
        
     ALU_1 : ALU1 port map(a(0) , b(0), carry_sig(0), control, carry_sig(1), result_sig(0));
-    ALU_2 : ALU1 port map(a(0) , b(0), carry_sig(1), control(1 DOWNTO 0), carry_sig(2), result_sig(1));
-    ALU_3 : ALU1 port map(a(0) , b(0), carry_sig(2), control(1 DOWNTO 0), carry_sig(3), result_sig(2));
-    ALU_4 : ALU1 port map(a(0) , b(0), carry_sig(3), control(1 DOWNTO 0), carry_sig(4), result_sig(3));
+    ALU_2 : ALU1 port map(a(1) , b(1), carry_sig(1), control(1 DOWNTO 0), carry_sig(2), result_sig(1));
+    ALU_3 : ALU1 port map(a(2) , b(2), carry_sig(2), control(1 DOWNTO 0), carry_sig(3), result_sig(2));
+    ALU_4 : ALU1 port map(a(3) , b(3), carry_sig(3), control(1 DOWNTO 0), carry_sig(4), result_sig(3));
 
 carryOut <= carry_sig(4);
 result <= result_sig;
