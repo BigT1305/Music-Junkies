@@ -41,7 +41,11 @@ SIGNAL result_sig:		STD_LOGIC_VECTOR(3 DOWNTO 0);
 
 BEGIN
 
--- Write Your Code Here
--- Note: You Need "PORT MAP"
+    alu :Alu4 port map(a, b, control, overflow_sig, zero_sig, carry_sig, result_sig);
+    bin : Bin2Hex port map(result_sig, hex);
+    led15 <= overflow_sig;
+    led17 <= zero_sig;
+    led16 <= carry_sig;
+    an <= "11111110";
 
 END behavioral;

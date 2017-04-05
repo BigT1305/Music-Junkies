@@ -28,5 +28,8 @@ BEGIN
      			"0100001" when "1101", -- D
      			"0000110" when "1110", -- E
      			"0001110" when "1111", -- F
-     			"1111110" when others;
+     			"1111110" when others; 
+
+
+
 END behavioral;
